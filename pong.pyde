@@ -36,4 +36,4 @@ while x<height:
     
 
 textSize(30)
-text("Seti", 950, 40)
+text("Seti Vega", 950, 40)
